@@ -1,3 +1,15 @@
+# html5up-story-nojs
+
+A responsive website HTML+CSS website template.
+
+This template is based on [the Story template by HTML5 UP](https://html5up.net/story), with minor modifications to remove the JavaScript.
+
+I wanted a JavaScript-free version of this beautiful template to simplify the foundation and allow for custom JavaScript that may have conflicted with the existing implementation. It also functions fine as-is with no JS at all.
+
+All credit goes to HTML5 UP, I just removed stuff.
+
+-----
+
 Story by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
